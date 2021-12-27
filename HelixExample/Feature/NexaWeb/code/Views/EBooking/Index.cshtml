@@ -1,0 +1,15 @@
+﻿@using Glass.Mapper.Sc.Web.Mvc
+@using Sitecore.Feature.NexaWeb.Models
+@model Sitecore.Feature.NexaWeb.Models.NexaCarModel
+
+<h1>NexaCarModel</h1>
+    @foreach(var item in Model.NexaCars)
+    {
+        <ul>
+            <li>@item.CarImage</li>
+            <li>@item.CarLogoImage</li>
+            <li>@item.CarModelName</li>
+
+        </ul>
+
+    }

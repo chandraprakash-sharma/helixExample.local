@@ -1,0 +1,29 @@
+﻿---
+ID: "1ebdca3f-0b68-4af3-b9c6-627d517b88ea"
+Parent: "5ac01c3c-7a44-404a-8309-34718bd8942c"
+Template: "aeafbdf8-c651-43a7-8a97-8b13f8e60cbc"
+Path: /sitecore/content/AllSites/MainSite/Example/Home/Employees
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{627501A4-5420-44DE-B278-5E61563D5491}">
+        <r
+          id="{A611F297-B419-4B87-B426-002B4356F3B7}"
+          ph="main"
+          uid="{EC6F5E76-5C75-4893-A5F9-B5618D8BA9F5}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211026T105155Z

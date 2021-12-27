@@ -1,0 +1,18 @@
+﻿---
+ID: "7511fc57-83a2-4b5f-9688-8045b75095cf"
+Parent: "94efe71b-0fa7-454d-a905-2da3e11e56f5"
+Template: "31e009e9-22f1-4f52-b8ce-789ed95c4880"
+Path: /sitecore/content/AllSites/MainSite/Example
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Example
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211022T070842Z
